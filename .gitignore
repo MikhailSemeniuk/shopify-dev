@@ -8,6 +8,7 @@ Thumbs.db
 .idea
 .env
 .env.*
+.npmrc
 !.env*.example
 process.env
 config.yml
